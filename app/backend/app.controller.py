@@ -52,4 +52,4 @@ def gettravels():
                 economicprice_travel = output_dict[x]
     return jsonify([confortprice_travel,economicprice_travel])
 
-app.run(port=5000,host='localhost',debug=True)
+app.run(port=3000,host='localhost',debug=True)
