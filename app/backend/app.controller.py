@@ -28,6 +28,7 @@ def gettravels():
         if(list_of_destinies[x]['city'] == str(body)):
             output_dict.append(list_of_destinies[x])
     if(len(output_dict)==1):
+        output_dict.append(output_dict[0])
         return jsonify(output_dict)
     else:
         #Initializing Values
