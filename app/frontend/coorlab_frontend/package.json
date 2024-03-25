@@ -11,9 +11,12 @@
   "dependencies": {
     "@coreui/icons": "^3.0.1",
     "@coreui/icons-vue": "^2.0.0",
+    "@syncfusion/ej2-vue-calendars": "^25.1.35",
+    "axios": "^1.6.8",
     "primeicons": "^6.0.1",
     "primevue": "^3.50.0",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-axios": "^3.5.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
