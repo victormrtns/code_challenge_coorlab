@@ -9,3 +9,6 @@ npm install primevue
 npm install primeicons
 npm install @coreui/icons
 npm install @coreui/icons-vue 
+npm install axios vue-axios
+npm i @syncfusion/ej2-vue-calendars
+pip install -U flask-cors
